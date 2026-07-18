@@ -50,4 +50,4 @@ This project adheres to Power BI developer best practices, avoiding implicit mea
 3. The dashboard is fully interactive—try clicking on any Product Category in the Matrix or the Scatter Plot to cross-filter the financial timeline and forecast!
 
 ---
-*Built by [Your Name/LinkedIn] - 2026*
+*Built by Thathsara Rajapaksha*
